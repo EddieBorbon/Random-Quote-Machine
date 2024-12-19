@@ -6,7 +6,7 @@ Welcome to the Random Quote Generator! This is a simple yet powerful React appli
 
 ## 🎥 Demo  
 ![Demo](./example.gif)  
-![Demo](https://eddieborbon.github.io/Random-Quote-Machine/)
+[Link to Demo Project](https://eddieborbon.github.io/Random-Quote-Machine/)
 ---
 
 ## 🌈 Features  
